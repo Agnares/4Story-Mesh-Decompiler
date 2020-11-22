@@ -1,0 +1,1 @@
+<GROUP>TClient</GROUP><DATA>.\Data\</DATA><INDEX>.\Index\%sM.IDX</INDEX><OUTPUT>E:\Admin\5.0 PROJECT\Client\MeshTestOutput</OUTPUT>
